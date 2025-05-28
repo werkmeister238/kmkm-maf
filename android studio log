@@ -1,0 +1,19 @@
+> Task :app:processReleaseMainManifest FAILED
+C:\Users\rob\AndroidStudioProjects\MiniAIHost\app\src\main\AndroidManifest.xml:35:25-38 Error:
+	Missing 'name' key attribute on element Permission at AndroidManifest.xml:35:25-38
+C:\Users\rob\AndroidStudioProjects\MiniAIHost\app\src\main\AndroidManifest.xml:39:25-38 Error:
+	Missing 'name' key attribute on element Permission at AndroidManifest.xml:39:25-38
+C:\Users\rob\AndroidStudioProjects\MiniAIHost\app\src\main\AndroidManifest.xml:59:21-71 Error:
+	Missing 'name' key attribute on element Permission at AndroidManifest.xml:59:21-71
+C:\Users\rob\AndroidStudioProjects\MiniAIHost\app\src\main\AndroidManifest.xml:60:21-85 Error:
+	Missing 'name' key attribute on element Permission at AndroidManifest.xml:60:21-85
+C:\Users\rob\AndroidStudioProjects\MiniAIHost\app\src\main\AndroidManifest.xml:61:21-77 Error:
+	Missing 'name' key attribute on element Permission at AndroidManifest.xml:61:21-77
+C:\Users\rob\AndroidStudioProjects\MiniAIHost\app\src\main\AndroidManifest.xml:62:21-84 Error:
+	Missing 'name' key attribute on element Permission at AndroidManifest.xml:62:21-84
+C:\Users\rob\AndroidStudioProjects\MiniAIHost\app\src\main\AndroidManifest.xml Error:
+	Validation failed, exiting
+
+See https://developer.android.com/r/studio-ui/build/manifest-merger for more information about the manifest merger.
+
+
